@@ -19,3 +19,13 @@ https://developer.technexion.com/docs/yocto-release-notes
 ## Manifest Source Code
 Provides step-by-step instructions for building an image using TechNexion's Yocto BSP, which supports i.MX-series processors.<br/>
 https://github.com/TechNexion/tn-imx-yocto-manifest
+
+# Want for more guide ? 
+
+## TechNexion Camera Driver User Guide
+
+If you want to get more information about TechNexion cameras, you can go to the bellow link.
+
+[Technexion Camera Drivers for NXP](https://github.com/TechNexion-Vision/nxp_evk_camera/tree/main)
+
+click here !! [NXP 8MPLUSLPD4-EVK Camera Usage Guide](https://developer.technexion.com/docs/nxp-8mpluslpd4-evk-board-tevi-camera-usage-guide)
