@@ -10,11 +10,11 @@
 TechNexion maintains Linux support in Yocto for all of our products.
 
 ## Development Guide
-https://tn-docusaurus.vercel.app/docs/embedded-software/linux/yocto/
+[https://developer.technexion.com/docs/embedded-software/linux/yocto/](https://developer.technexion.com/docs/embedded-software/linux/yocto/)
 
 ## Release Notes
 Includes links to pre-built images.<br/>
-https://tn-docusaurus.vercel.app/docs/category/release-notes
+[https://developer.technexion.com/docs/category/release-notes](https://developer.technexion.com/docs/category/release-notes)
 
 ## Manifest Source Code
 Provides step-by-step instructions for building an image using TechNexion's Yocto BSP, which supports i.MX-series processors.<br/>
@@ -28,4 +28,4 @@ If you want to get more information about TechNexion cameras, you can go to the 
 
 [Technexion Camera Drivers for NXP](https://github.com/TechNexion-Vision/nxp_evk_camera/tree/main)
 
-click here !! [NXP 8MPLUSLPD4-EVK Camera Usage Guide](https://tn-docusaurus.vercel.app/docs/embedded-vision/tevs/usage-guides/nxp/nxp-8mpluslpd4-evk-board-tevs-camera-usage-guide)
+click here !! [NXP 8MPLUSLPD4-EVK Camera Usage Guide](https://developer.technexion.com/docs/embedded-vision/tevs/usage-guides/nxp/nxp-development-list/yocto-5.0-scarthgap-release/nxp-8mpluslpd4-evk-board-tevs-camera-usage-guide)
